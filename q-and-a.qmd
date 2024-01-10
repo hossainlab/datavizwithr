@@ -1,0 +1,59 @@
+---
+title: "Mastering Data Visualization with R"
+subtitle: "Learn how to create advanced data visualizations with R in order to transform your data into actionable insight."
+editor: source
+---
+
+Q: What is the duration of the course?
+
+> The course is designed to be completed in 2 weeks. Each module is structured to provide a comprehensive learning experience.
+
+
+Q: Is there a prerequisite for enrolling in the course?
+
+> While a basic understanding of R programming can be beneficial, the course is designed to accommodate learners of various levels, including beginners in R and data visualization.
+
+
+Q: How will the course be delivered?
+
+> The course is offered online, allowing participants to access lectures, materials, and assignments at their own pace. Live sessions, forums, and interactive elements will enhance the learning experience.
+
+
+Q: What resources will be provided?
+
+> Participants will have access to video lectures, reading materials, hands-on projects, and additional resources to support their learning journey.
+
+
+Q:  Do I need any specific software for the course?
+
+> Yes, participants will need to have R and RStudio installed on their computers. Instructions on setting up the environment will be provided at the beginning of the course.
+
+Q:  Can I take this course on a mobile device?
+
+> While it's recommended to have access to a computer for the best learning experience, some elements of the course may be accessible on mobile devices. However, hands-on projects are more effectively completed on a computer.
+
+
+Q:  Are there any specific technical requirements?
+
+> Participants should have a reliable internet connection and a computer that meets the minimum requirements for running R and RStudio.
+
+
+Q: Is there a certification upon completion of the course?
+
+> Yes, participants who successfully complete the course, including hands-on projects and assessments, will receive a certificate of completion.
+
+
+Q: How is the final project evaluated?
+
+> The final project will be evaluated through a peer review process, allowing participants to receive constructive feedback from their peers.
+
+
+
+Q: How do I enroll in the course?
+
+> You can enroll by visiting [Your Course Website] and following the enrollment instructions. Limited seats are available, so it's recommended to secure your spot early.
+
+
+
+
+

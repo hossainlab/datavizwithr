@@ -1,0 +1,139 @@
+---
+title: "Mastering Data Visualization with R"
+subtitle: "Learn how to create advanced data visualizations with R in order to transform your data into actionable insight."
+editor: source
+---
+
+<!-- https://github.com/rstudio-conf-2022/teach-ds -->
+
+------------------------------------------------------------------------
+
+🗓March 2 & 3,  2024 \| 8:00am - 11:00pm BDT
+
+🏨 Virtual Workshop 
+
+💥 **Register** with [Google Forms]() 
+
+💥 **Registration Fee**: 2040 BDT (for students), 3060 BDT (for professionals)
+
+📝 To join dedicated workshop Telegram channel, follow instructions in the email "*Workshops*" you received after registration. 
+
+------------------------------------------------------------------------
+
+# Overview
+Unlock the art and science of data storytelling through our comprehensive course, **Mastering Data Visualization with R**. In an era where data drives decision-making, the ability to visually communicate insights is a sought-after skill. This course is meticulously designed to empower you with the proficiency to leverage R, a powerful programming language for statistical computing, to craft compelling and informative data visualizations.
+
+**Key Highlights:**
+
+**Foundation to Mastery:** From fundamental plotting techniques to advanced visualization libraries, this course guides you through a progressive learning journey. Master R programming and discover the versatility of its visualization capabilities.
+
+**Hands-On Projects:** Apply your knowledge in real-world scenarios through hands-on projects. Gain practical experience in creating impactful visualizations, ensuring you can seamlessly integrate these skills into your professional toolkit.
+
+**Interactive Dashboards:** Explore the world of interactive data storytelling using R. Learn to build dynamic dashboards that engage your audience and provide them with an immersive experience.
+
+**Geographic Insights:** Dive into the realm of geographic data visualization. Uncover patterns, trends, and insights by plotting data on maps, making your analyses more comprehensive and visually appealing.
+
+## Learning objectives 
+By the end of this workshop, participants will:
+
+- Understand the significance of data visualization in extracting insights.
+
+- Develop proficiency in creating fundamental visualizations.
+
+- Learn techniques for preparing data for visualization.
+
+- Master the ggplot2 package for creating sophisticated visualizations.
+
+- Create dynamic and interactive dashboards.
+
+- Visualize spatial data and patterns effectively.
+
+- Explore advanced visualization libraries and techniques.
+
+- Apply learned concepts to real-world scenarios.
+
+- Develop a set of best practices for effective data visualization.
+
+- Demonstrate mastery through a final data visualization project.
+
+
+
+## Who Should Enroll?
+- Data Scientists and Analysts
+- Public Health Professionals
+- Epidemiologists
+- Healthcare Analysts
+- Government Health Officials
+- Researchers and Academicians
+- Decision-makers relying on data-driven insights
+- Anyone eager to enhance their data visualization prowess using R
+
+
+
+
+## Required software
+- R: <http://www.r-project.org/> (FREE)
+- RStudio (additional libraries required): <http://www.rstudio.com/> (FREE)
+
+
+## Recording of classes
+Class lectures will be recorded automatically using cloud. The links will be posted to CHIRAL Classes when they are available. 
+
+
+## Prework
+
+Before attending the workshop please have the following installed and configured on your machine.
+
+-   Recent version of **R**
+
+-   Recent version of **RStudio**
+
+-   Most recent release of the [**gtsummary**](https://www.danieldsjoberg.com/gtsummary/) and other packages used in workshop.
+
+    ``` r
+    instll_pkgs <- 
+      c("tidyverse", "gtsummary", "easystats")
+    install.packages(instll_pkgs)
+    ```
+-   Ensure you can knit R markdown documents
+
+    -   Open RStudio and create a new Rmarkdown document
+    -   Save the document and check you are able to knit it.
+
+
+
+## Zoom + Working Virtually
+
+-   Zoom link will be emailed to students
+
+-   Class sessions will be recorded and later posted
+
+-   We will have lectures as well as breakout room sessions to work on labs
+
+-   Please be aware that there is the option to use closed captioning:
+
+
+
+## Instructor 
+### Bio
+![](images/JHossain.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Jubayer" width="200"} 
+
+Hi, I am [Jubayer](https://hossainlab.github.io/), a highly motivated biomedical research enthusiasts with a Master of Science in Microbiology focus on public health and health data science. Research experience designing and implementing projects for biomedical data analysis (including next‑generation sequencing, RNA‑seq , and ssRNA‑seq ). I am interested in applying machine learning/deep learning tools and techniques in the context of disease diagnosis and large data analytics for public health while focusing on bridging the gap between computational and experimental laboratories through highly engaging and fruitful collaborations
+
+Python is my primary language for data analysis and machine learning. I also have a basic understanding of R, Julia, SPSS, QGIS, and SQL.
+
+This [page](https://hossainlab.github.io/) highlights my teaching and research projects. Please reach out if you want to collaborate or have questions.
+
+### Skills 
+**Programming Languages:** Python, R, SQL, Julia, JavaScript; **Data Science:** scikit-learn, PyCaret, Dask, PySpark; **GIS & Remote Sensing:** ArcGIS, Geopandas, Xarray, Giovani; **Analytics Softwares:** SPSS, PowerBI, Microsoft Excel; **Survey Tools:** RedCap, KoboToolBox, EpiCollect, Google Forms; **Academic Writing Tools:** Microsoft Word, LaTeX, Mendeley; **Bioinformatics:** BioPython, Bioconductor, BioPandas, Galaxy, NGS, RNASeq, ssRNASeq; **Miscellaneous Skills:** UNIX, Version Control(Git), Web Scraping, APIs.
+
+
+### Selected Publications 
+1. **Hossain, M.J.**, Islam, M.W., Munni, U.R. et al. Health-related quality of life among thalassemia patients in Bangladesh using the SF-36 questionnaire. Scientific Reports 13, 7734 (2023). <https://doi.org/10.1038/s41598-023-34205-9>
+2. Towhid, S. T., **Hossain, M. J.**, Sammo, M. A. S., & Akter, S. (2022). Perception of Students on Antibiotic Resistance and Prevention: An Online, Community-Based Case Study from Dhaka, Bangladesh. European Journal of Biology and Biotechnology, 3(3), 14–19. <https://doi.org/10.24018/ejbio.2022.3.3.341>
+3. **Hossain, M.J.**, Towhid ST, Sultana S, Mukta SA, Gulshan R, Miah MS (2022). *Knowledge and Attitudes towards Thalassemia among Public University Students in Bangladesh*. Microbial Bioactives, 5(2), <https://doi.org/10.25163/microbbioacts.526325>.
+
+
+
+
+
